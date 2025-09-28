@@ -19,7 +19,7 @@ I checked the firewall rules usin:
 I added the rule using:
 `sudo ufw deny 23`
 
-4.testint the rule by attempting to connect to that port locally
+4.testing the rule by attempting to connect to that port locally
 --
 I opened a new terminal an runned:
 `telnet localhost 23`
