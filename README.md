@@ -5,4 +5,4 @@
 I installed UFW using:
 > sudo apt install ufw -y
 > 
-![Screenshot From 2025-09-26 21-22-55.png](file:///home/riplilphat38/Pictures/Screenshots/Screenshot%20From%202025-09-26%2021-22-55.png)
+![image alt](https://github.com/Riplilphat38/07-cyber-security-interns4/blob/bb8a2ffe24c35591020e4247930c3cc56a3b9881/Screenshot%20From%202025-09-26%2021-22-55.png)
